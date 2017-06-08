@@ -1,3 +1,4 @@
+
 ## github的学习
 
 第一次课上学习了GETHUB的一些内容，虽然很多都没有听懂，但是感觉自己还是学到了不少，感觉在这种课堂里学习的氛围真的很棒
@@ -25,6 +26,6 @@ python这个软件简直快把我折腾疯了，感觉这一次课上自己坐�
 
 ## wireshark
 
-更多信息请查看
+虽然我知道wireshark能够看一些网址传送的数据,但我还是不太明白wireshark能够让我干什么,不过看到这么多数据,估计消耗的流量挺多的吧
 
-[**团队网站**](https://andybernie.github.io/2017/05/05/codes2things/)
+更多信息请查看[**团队网站**](https://andybernie.github.io/2017/05/05/codes2things/)
